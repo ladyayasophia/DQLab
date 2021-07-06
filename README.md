@@ -4,9 +4,11 @@
 
 
 
-**DQLab** adalah portal belajar online yang sangat lengkap. Portal ini lebih fokus dalam mempelajari Ilmu Data. Terdapat tiga bahasa pemrograman yang disediakan untuk dipelajari, yakni : R, Python, dan SQL. Ketiga bahasa tersebut sangat populer di dunia Data Science sekarang ini.
+**DQLab** adalah platform pembelajaran online dalam bahasa Indonesia, yang lebih fokus dalam mempelajari Ilmu Data. Terdapat tiga bahasa pemrograman yang disediakan untuk dipelajari, yakni : R, Python, dan SQL. Ketiga bahasa tersebut sangat populer di dunia Data Science sekarang ini.
 
-Materi yang mudah dipelajari dan dipahami disajikan dengan sangat lengkap *step by step*. Sehingga bagi Anda yang bukan dari latar belakang ilmu IT atau Statistik, bisa menjadikan point pertimbangan dalam memilih, jika kamu ingin menjadi seorang praktisi data. DQLab juga bekerjasama dengan beberapa perusahaan dengan **Program Career Track** bagi membernya. Dimana beberapa contoh dari materi Project Challenges yang dibuat berdasarkan kasus di lapangan, hal ini yang menarik dirasakan saat belajar, serasa mengerjakan tugas seorang praktisi di bidang data.
+Pembelajaran praktis serta materi yang mudah dipelajari dan dipahami disajikan dengan sangat lengkap *step by step*. Sehingga bagi Anda yang bukan dari latar belakang ilmu IT atau Statistik, bisa menjadikan point pertimbangan. DQLab juga bekerjasama dengan beberapa perusahaan dengan **Program Career Track** bagi membernya. Dimana beberapa contoh dari materi Project Challenges yang dibuat berdasarkan kasus di lapangan, hal ini yang menarik dirasakan saat belajar, serasa mengerjakan tugas seorang praktisi di bidang data.
+
+Jika kalian ingin belajar Ilmu Data dari dasar atau bahkan menjadi Data Specialist dibidang Data Science, Data Analyst, Data Scientist, Data Engineer, Machine Learning dan Data Visualization maka DQLab bisa menjadi salah satu *option* kalian.
 
 
 
