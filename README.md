@@ -17,7 +17,7 @@ Jika kalian ingin belajar Ilmu Data dari dasar atau bahkan menjadi Data Speciali
 ---
 
 ## Materi
-### :dart:  [Data Analyst](https://github.com/ladyayasophia/Data-Analysis-DQLab)
+### :dart:  [Data Analyst with Python](https://github.com/ladyayasophia/Data-Analysis-DQLab)
     ▶️ PYTHON
 
     ▶️ SQL
